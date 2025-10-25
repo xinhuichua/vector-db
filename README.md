@@ -1,2 +1,4 @@
 # vector-db
-exploring vector db
+Exploring Pinecone Vector DB
+
+
